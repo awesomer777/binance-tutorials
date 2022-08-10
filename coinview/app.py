@@ -3,6 +3,8 @@ import config, csv, datetime
 from binance.client import Client
 from binance.enums import *
 
+
+## this is a demo test
 app = Flask(__name__)
 app.secret_key = b'somelongrandomstring'
 
